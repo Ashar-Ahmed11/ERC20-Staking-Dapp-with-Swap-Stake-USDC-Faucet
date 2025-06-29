@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/ERC20-Staking-Dapp-with-Swap-Stake-USDC-Faucet/static/css/main.f8555f02.css",
+    "main.js": "/ERC20-Staking-Dapp-with-Swap-Stake-USDC-Faucet/static/js/main.28c56a2f.js",
+    "static/js/753.4e96743c.chunk.js": "/ERC20-Staking-Dapp-with-Swap-Stake-USDC-Faucet/static/js/753.4e96743c.chunk.js",
+    "static/js/743.9a7e4ae5.chunk.js": "/ERC20-Staking-Dapp-with-Swap-Stake-USDC-Faucet/static/js/743.9a7e4ae5.chunk.js",
+    "static/js/374.c2d8dc78.chunk.js": "/ERC20-Staking-Dapp-with-Swap-Stake-USDC-Faucet/static/js/374.c2d8dc78.chunk.js",
+    "static/js/466.7f13b24e.chunk.js": "/ERC20-Staking-Dapp-with-Swap-Stake-USDC-Faucet/static/js/466.7f13b24e.chunk.js",
+    "static/js/968.78eef045.chunk.js": "/ERC20-Staking-Dapp-with-Swap-Stake-USDC-Faucet/static/js/968.78eef045.chunk.js",
+    "static/js/507.9a2826f1.chunk.js": "/ERC20-Staking-Dapp-with-Swap-Stake-USDC-Faucet/static/js/507.9a2826f1.chunk.js",
+    "static/js/456.5901d2ba.chunk.js": "/ERC20-Staking-Dapp-with-Swap-Stake-USDC-Faucet/static/js/456.5901d2ba.chunk.js",
+    "static/js/453.54da6cfb.chunk.js": "/ERC20-Staking-Dapp-with-Swap-Stake-USDC-Faucet/static/js/453.54da6cfb.chunk.js",
+    "static/js/171.a111cafc.chunk.js": "/ERC20-Staking-Dapp-with-Swap-Stake-USDC-Faucet/static/js/171.a111cafc.chunk.js",
+    "static/js/296.b52459aa.chunk.js": "/ERC20-Staking-Dapp-with-Swap-Stake-USDC-Faucet/static/js/296.b52459aa.chunk.js",
+    "static/js/576.b4c0cdd4.chunk.js": "/ERC20-Staking-Dapp-with-Swap-Stake-USDC-Faucet/static/js/576.b4c0cdd4.chunk.js",
+    "static/js/780.8dea7342.chunk.js": "/ERC20-Staking-Dapp-with-Swap-Stake-USDC-Faucet/static/js/780.8dea7342.chunk.js",
+    "static/js/530.c3554e4b.chunk.js": "/ERC20-Staking-Dapp-with-Swap-Stake-USDC-Faucet/static/js/530.c3554e4b.chunk.js",
+    "static/media/customFont.ttf": "/ERC20-Staking-Dapp-with-Swap-Stake-USDC-Faucet/static/media/customFont.6eccb344b604e67e2145.ttf",
+    "index.html": "/ERC20-Staking-Dapp-with-Swap-Stake-USDC-Faucet/index.html",
+    "main.f8555f02.css.map": "/ERC20-Staking-Dapp-with-Swap-Stake-USDC-Faucet/static/css/main.f8555f02.css.map",
+    "main.28c56a2f.js.map": "/ERC20-Staking-Dapp-with-Swap-Stake-USDC-Faucet/static/js/main.28c56a2f.js.map",
+    "753.4e96743c.chunk.js.map": "/ERC20-Staking-Dapp-with-Swap-Stake-USDC-Faucet/static/js/753.4e96743c.chunk.js.map",
+    "743.9a7e4ae5.chunk.js.map": "/ERC20-Staking-Dapp-with-Swap-Stake-USDC-Faucet/static/js/743.9a7e4ae5.chunk.js.map",
+    "374.c2d8dc78.chunk.js.map": "/ERC20-Staking-Dapp-with-Swap-Stake-USDC-Faucet/static/js/374.c2d8dc78.chunk.js.map",
+    "507.9a2826f1.chunk.js.map": "/ERC20-Staking-Dapp-with-Swap-Stake-USDC-Faucet/static/js/507.9a2826f1.chunk.js.map",
+    "456.5901d2ba.chunk.js.map": "/ERC20-Staking-Dapp-with-Swap-Stake-USDC-Faucet/static/js/456.5901d2ba.chunk.js.map",
+    "453.54da6cfb.chunk.js.map": "/ERC20-Staking-Dapp-with-Swap-Stake-USDC-Faucet/static/js/453.54da6cfb.chunk.js.map",
+    "171.a111cafc.chunk.js.map": "/ERC20-Staking-Dapp-with-Swap-Stake-USDC-Faucet/static/js/171.a111cafc.chunk.js.map",
+    "296.b52459aa.chunk.js.map": "/ERC20-Staking-Dapp-with-Swap-Stake-USDC-Faucet/static/js/296.b52459aa.chunk.js.map",
+    "576.b4c0cdd4.chunk.js.map": "/ERC20-Staking-Dapp-with-Swap-Stake-USDC-Faucet/static/js/576.b4c0cdd4.chunk.js.map",
+    "780.8dea7342.chunk.js.map": "/ERC20-Staking-Dapp-with-Swap-Stake-USDC-Faucet/static/js/780.8dea7342.chunk.js.map",
+    "530.c3554e4b.chunk.js.map": "/ERC20-Staking-Dapp-with-Swap-Stake-USDC-Faucet/static/js/530.c3554e4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8555f02.css",
+    "static/js/main.28c56a2f.js"
+  ]
+}

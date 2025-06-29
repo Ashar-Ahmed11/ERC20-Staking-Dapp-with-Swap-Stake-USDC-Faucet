@@ -1,0 +1,1 @@
+(self.webpackChunkVertexChain_Dapp=self.webpackChunkVertexChain_Dapp||[]).push([[466],{47790:()=>{},15340:()=>{},79838:()=>{}}]);
