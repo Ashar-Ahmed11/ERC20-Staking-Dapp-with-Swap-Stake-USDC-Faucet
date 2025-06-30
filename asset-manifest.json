@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ERC20-Staking-Dapp-with-Swap-Stake-USDC-Faucet/static/css/main.f8555f02.css",
-    "main.js": "/ERC20-Staking-Dapp-with-Swap-Stake-USDC-Faucet/static/js/main.28c56a2f.js",
+    "main.js": "/ERC20-Staking-Dapp-with-Swap-Stake-USDC-Faucet/static/js/main.a92a3178.js",
     "static/js/753.4e96743c.chunk.js": "/ERC20-Staking-Dapp-with-Swap-Stake-USDC-Faucet/static/js/753.4e96743c.chunk.js",
     "static/js/743.9a7e4ae5.chunk.js": "/ERC20-Staking-Dapp-with-Swap-Stake-USDC-Faucet/static/js/743.9a7e4ae5.chunk.js",
     "static/js/374.c2d8dc78.chunk.js": "/ERC20-Staking-Dapp-with-Swap-Stake-USDC-Faucet/static/js/374.c2d8dc78.chunk.js",
@@ -18,7 +18,7 @@
     "static/media/customFont.ttf": "/ERC20-Staking-Dapp-with-Swap-Stake-USDC-Faucet/static/media/customFont.6eccb344b604e67e2145.ttf",
     "index.html": "/ERC20-Staking-Dapp-with-Swap-Stake-USDC-Faucet/index.html",
     "main.f8555f02.css.map": "/ERC20-Staking-Dapp-with-Swap-Stake-USDC-Faucet/static/css/main.f8555f02.css.map",
-    "main.28c56a2f.js.map": "/ERC20-Staking-Dapp-with-Swap-Stake-USDC-Faucet/static/js/main.28c56a2f.js.map",
+    "main.a92a3178.js.map": "/ERC20-Staking-Dapp-with-Swap-Stake-USDC-Faucet/static/js/main.a92a3178.js.map",
     "753.4e96743c.chunk.js.map": "/ERC20-Staking-Dapp-with-Swap-Stake-USDC-Faucet/static/js/753.4e96743c.chunk.js.map",
     "743.9a7e4ae5.chunk.js.map": "/ERC20-Staking-Dapp-with-Swap-Stake-USDC-Faucet/static/js/743.9a7e4ae5.chunk.js.map",
     "374.c2d8dc78.chunk.js.map": "/ERC20-Staking-Dapp-with-Swap-Stake-USDC-Faucet/static/js/374.c2d8dc78.chunk.js.map",
@@ -33,6 +33,6 @@
   },
   "entrypoints": [
     "static/css/main.f8555f02.css",
-    "static/js/main.28c56a2f.js"
+    "static/js/main.a92a3178.js"
   ]
 }
