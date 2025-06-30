@@ -147,6 +147,19 @@ const Stake = () => {
 
         })
     }
+    function unstake() {
+        // if (currentSwap == "ASH"){
+        writeContract({
+            abi,
+            address: deployedaddr,
+            functionName: 'unstake',
+             args: [parseEther(stakeAmount)]
+        
+
+            // value: parseEther(`${input1 / 10000}`)
+
+        })
+    }
 
 
     console.log(error)
@@ -211,7 +224,7 @@ const Stake = () => {
                             </div>
                             <div className="d-flex">
                                 <button onClick={() => stake()} className="btn btn-outline-light p-2 btn-lg mt-2 w-100 mx-2 rounded-4">Stake</button>
-                                <button className="btn btn-outline-light p-2 btn-lg mt-2 w-100 mx-2 rounded-4">Unstake All</button>
+                                <button onClick={()=>unstake()} className="btn btn-outline-light p-2 btn-lg mt-2 w-100 mx-2 rounded-4">Unstake</button>
                             </div>
                         </div>
                     </div>
